@@ -19,6 +19,7 @@
 ### 🌱 更多信息
 
 - 📚 博客主页：[blog.rdr2.cn](https://blog.rdr2.cn)
+- 🤖 个人小店：[莫欺客鞋帽优选](https://www.moqistar.com)
 - 👥 技术交流群：QQ群 `608238243`
 - 📮 联系邮箱：`entity_now@qq.com`
 - 💬 欢迎交流：无论是合作开发、技术分享，还是轻松闲聊，期待与你相遇！
