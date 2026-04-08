@@ -13,6 +13,7 @@
 - 📝 [yuque-rich-text](https://github.com/Entity-Now/yuque-rich-text)：语雀风格富文本编辑器（Vue），兼具简洁体验与扩展能力
 - 💰 [GoldPriceWatch](https://github.com/Entity-Now/GoldPriceWatch)：黄金价格实时监控工具，支持提醒与可视化展示
 - 📖 [MoqWord](https://github.com/Entity-Now/MoqWord)：跨平台桌面背单词软件，助你日常积累英语词汇
+- 🤖 [WJFakeLocation](https://github.com/Entity-Now/WJFakeLocation)：Android虚拟定位修改工具。
 
 ---
 
