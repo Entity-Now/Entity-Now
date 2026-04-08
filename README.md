@@ -18,7 +18,7 @@
 ---
 
 ### 🌱 更多信息
-
+- 👽 我的简历：[hekang.moqistar.com](https://hekang.moqistar.com)
 - 📚 博客主页：[blog.rdr2.cn](https://blog.rdr2.cn)
 - 🤖 个人小店：[莫欺客鞋帽优选](https://www.moqistar.com)
 - 👥 技术交流群：QQ群 `608238243`
