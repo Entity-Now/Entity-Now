@@ -1,36 +1,43 @@
-## 👋 Hi，我是 Entity
+## 👋 你好，我是 Entity
 
-一名专注于实用与创新的 **Fullstack 工程师**，主修语言包括 **C#、JavaScript、Python**，同时热衷于探索 **Kotlin、Vue** 等现代技术栈。擅长桌面应用开发、前端组件设计与插件系统构建，热爱将创意落地为高效工具。
-
-🔧 热衷开源，已发布多个实用项目，涵盖语音合成、翻译增强、富文本编辑、信息监控等多个领域。
+一名专注于 **C# / .NET** 开发的全栈工程师，热衷于构建能够解决实际问题的工具与库。我的技术栈涵盖了从桌面端、移动端到 Web 前端的多个领域，擅长插件系统开发与自动化方案设计。
 
 ---
 
-### 🚀 我的代表作品
+### 🛠 技术背景
 
-- 🔊 [Edge_tts_sharp](https://github.com/Entity-Now/Edge_tts_sharp)：微软 Edge TTS 语音合成类库（C#），支持文本转语音功能，适用于多种桌面应用场景
-- 🌐 [EnTranslate](https://github.com/Entity-Now/EnTranslate)：Visual Studio 2022 划词翻译插件，开发者高效阅读英文资料的利器
-- 📝 [yuque-rich-text](https://github.com/Entity-Now/yuque-rich-text)：语雀风格富文本编辑器（Vue），兼具简洁体验与扩展能力
-- 💰 [GoldPriceWatch](https://github.com/Entity-Now/GoldPriceWatch)：黄金价格实时监控工具，支持提醒与可视化展示
-- 📖 [MoqWord](https://github.com/Entity-Now/MoqWord)：跨平台桌面背单词软件，助你日常积累英语词汇
-- 🤖 [WJFakeLocation](https://github.com/Entity-Now/WJFakeLocation)：Android虚拟定位修改工具。
+- **核心语言**: C#, JavaScript (Vue), Python
+- **技术领域**: WPF/WinForm 桌面应用、VS 扩展开发、Android 逆向与辅助工具、爬虫与数据监控
+- **开源理念**: 编写简洁、可维护的代码，并积极分享给社区。
 
 ---
 
-### 🌱 更多信息
-- 👽 我的简历：[hekang.moqistar.com](https://hekang.moqistar.com)
-- 📚 博客主页：[blog.rdr2.cn](https://blog.rdr2.cn)
-- 🤖 个人小店：[莫欺客鞋帽优选](https://www.moqistar.com)
-- 👥 技术交流群：QQ群 `608238243`
-- 📮 联系邮箱：`entity_now@qq.com`
-- 💬 欢迎交流：无论是合作开发、技术分享，还是轻松闲聊，期待与你相遇！
+### 🚀 代表作品
+
+*   🔊 **[Edge_tts_sharp](https://github.com/Entity-Now/Edge_tts_sharp)**: 基于微软 Edge 接口的 C# 语音合成库。提供高性能的文本转语音功能，已被多个开源项目集成使用。
+*   🌐 **[EnTranslate](https://github.com/Entity-Now/EnTranslate)**: 专为 Visual Studio 2022/2026 打造的划词翻译插件。支持 340 万+ 离线词库及源码注释深度解析。
+*   📝 **[yuque-rich-text](https://github.com/Entity-Now/yuque-rich-text)**: 基于 Vue 封装的语雀风格富文本编辑器，旨在提供极致的中文创作体验。
+*   🤖 **[WJFakeLocation](https://github.com/Entity-Now/WJFakeLocation)**: Android 虚拟定位调试工具，支持底层位置信息修改。
+*   📖 **[MoqWord](https://github.com/Entity-Now/MoqWord)**: 跨平台桌面背单词软件，专注于程序员的日常英语积累。
 
 ---
 
-### 📊 我的开发统计
+### 🌱 个人链接
+
+- **在线简历**: [hekang.moqistar.com](https://hekang.moqistar.com)
+- **技术博客**: [blog.rdr2.cn](https://blog.rdr2.cn)
+- **联系邮箱**: `entity_now@qq.com`
+- **技术交流**: QQ群 `608238243`
+
+---
+
+### 📊 GitHub 状态统计
 
 ![Entity-Now's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Entity-Now&show_icons=true&theme=transparent&hide_title=false&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Entity-Now&layout=compact&theme=transparent&langs_count=8)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Entity-Now&color=blueviolet)
+---
+
+# 🔗 友情链接
+🛍️ [**莫欺客鞋帽优选**](https://www.moqistar.com) - 优质严选，品质生活。
